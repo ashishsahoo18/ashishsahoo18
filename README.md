@@ -1,7 +1,7 @@
 <h1 align="center">⚡ Ashu ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub;Full+Stack+Developer+in+Progress;I+Build+Cool+Things🚀;Python+%7C+Web+%7C+AI" />
+  
 </p>
 
 ---
