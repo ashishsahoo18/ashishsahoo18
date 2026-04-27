@@ -1,9 +1,19 @@
 <div align="center">
 
+<!-- ============================================================ -->
+<!--  BANNER — Replace the src URL with your actual banner image  -->
+<!-- ============================================================ -->
+
+<img src="https://YOUR_BANNER_IMAGE_URL_HERE" alt="Ashish Sahoo — Developer Banner" width="100%" style="border-radius:12px;" />
+
+<br/>
+
+<!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%26+Backend+Engineer;Open+Source+Contributor;Building+things+that+matter)](https://git.io/typing-svg)
 
 <br/>
 
+<!-- Profile views counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=Profile+Views)
 
 </div>
