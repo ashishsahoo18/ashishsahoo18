@@ -1,66 +1,80 @@
-<h1 align="center">⚡ Ashu ⚡</h1>
-
+<!-- 🔥 CINEMATIC HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub;Full+Stack+Developer+in+Progress;I+Build+Cool+Things🚀;Python+%7C+Web+%7C+AI" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=ASHISH%20SAHOO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<!-- ⚡ TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Web+Developer;Python+Programmer;Building+Cool+Things+🚀;Always+Learning"/>
 </p>
 
 ---
 
+<!-- 🧠 INTRO + SIDE VISUAL -->
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+### 👋 Hey, I'm Ashish Sahoo  
+
+💡 **Creative Web Developer who loves clean UI + powerful backend**  
+
+- 🎯 Focus: Full Stack Development  
+- ⚙️ Tech: Python, JS, React  
+- 🌱 Learning: Advanced Backend + AI  
+- 🚀 Goal: Build impactful real-world projects  
 
 ---
 
-## 🧠 About Me
-
-- 💻 Currently learning **Python, Web Development**
-- 🚀 Interested in **AI, Automation, Projects**
-- 🎯 Goal: Become a **Full Stack Developer**
-- ⚡ Fun fact: I love building things that actually work
-
----
-
-## 🚀 Tech Stack
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode&theme=dark"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 Performance Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
 
-## 🔥 Streak Stats
+### 🧠 Dev Mindset
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👀 Profile Views
+### 👁️ Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00F7FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00c6ff&style=for-the-badge"/>
 </p>
 
 ---
 
+<!-- 🔻 FUTURISTIC FOOTER -->
 <p align="center">
-  ⚡ "Code. Build. Repeat." ⚡
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer"/>
 </p>
