@@ -1,80 +1,98 @@
-<!-- 🔥 CINEMATIC HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:2c5364,100:00c6ff&height=260&section=header&text=ASHISH%20SAHOO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+<div align="center">
 
-<!-- ⚡ TYPING INTRO -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00C6FF&center=true&vCenter=true&width=650&lines=Web+Developer;Python+Programmer;Building+Cool+Things+🚀;Always+Learning"/>
-</p>
+<!-- ============================================================ -->
+<!--  BANNER — Replace the src URL with your actual banner image  -->
+<!-- ============================================================ -->
 
----
+<img src="https://YOUR_BANNER_IMAGE_URL_HERE" alt="Ashish Sahoo — Developer Banner" width="100%" style="border-radius:12px;" />
 
-<!-- 🧠 INTRO + SIDE VISUAL -->
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
 
-### 👋 Hey, I'm Ashish Sahoo  
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%26+Backend+Engineer;Open+Source+Contributor;Building+things+that+matter)](https://git.io/typing-svg)
 
-💡 **Creative Web Developer who loves clean UI + powerful backend**  
+<br/>
 
-- 🎯 Focus: Full Stack Development  
-- ⚙️ Tech: Python, JS, React  
-- 🌱 Learning: Advanced Backend + AI  
-- 🚀 Goal: Build impactful real-world projects  
+<!-- Profile views counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## About
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode&theme=dark"/>
-</p>
+I'm a full-stack developer focused on building clean, performant web applications and scalable backend systems. I care about code quality, system design, and shipping products that solve real problems — not just demos.
 
----
+Currently working at the intersection of **modern frontend**, **Python backends**, and **developer tooling**. I believe in writing code that future-me won't hate.
 
-### 📊 Performance Dashboard
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=12"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&border_radius=12"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
-</p>
+- Building production-grade web apps with React and Node
+- Designing REST APIs and Python services that scale
+- Exploring system design, DevOps practices, and open source
 
 ---
 
-### 🧠 Dev Mindset
+## Tech Stack
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+**Frontend**
 
-### 🌐 Connect
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-00c6ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**Backend & Database**
 
----
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,express,fastapi,postgres,mongodb,redis&theme=dark)](https://skillicons.dev)
 
-### 👁️ Visitors
+**Tools & Platforms**
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=00c6ff&style=for-the-badge"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode,github,vercel,aws&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-<!-- 🔻 FUTURISTIC FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0f2027&height=120&section=footer"/>
-</p>
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**WebCraft CLI**](https://github.com/YOUR_GITHUB_USERNAME/webcraft-cli) | A scaffolding tool that sets up production-ready project structures in under 10 seconds | `Python` `Click` `Jinja2` |
+| [**PriceTrack**](https://github.com/YOUR_GITHUB_USERNAME/pricetrack) | E-commerce price monitoring app with email alerts and historical chart views | `Next.js` `FastAPI` `PostgreSQL` |
+| [**DevBoard**](https://github.com/YOUR_GITHUB_USERNAME/devboard) | Minimal personal dashboard that aggregates GitHub, tasks, and notes in one place | `React` `Node.js` `MongoDB` |
+| [**QuickAPI**](https://github.com/YOUR_GITHUB_USERNAME/quickapi) | Generate RESTful mock APIs from a JSON schema — useful for rapid frontend prototyping | `Python` `FastAPI` `Docker` |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashish%20Sahoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-your@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=vercel&logoColor=black)](https://YOUR_PORTFOLIO_URL)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Crafted with intent · No filler, no noise</sub>
+</div>
