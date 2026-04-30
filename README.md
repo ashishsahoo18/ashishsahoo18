@@ -45,7 +45,7 @@
 
 |  |  |
 |:---|:---|
-| 🌐 **Portfolio** | [ashishsahoo.github.io](https://ashishsahoo.github.io) |
+| 🌐 **Portfolio** | [ashishsahoo18.github.io](https://ashishsahoo18.github.io) |
 | 📍 **Location** | India |
 | 💼 **Roles** | Full Stack Developer · Python Developer · Backend Developer · Open Source Contributor |
 | 🔭 **Currently** | Building scalable backend systems & contributing to OSS |
@@ -101,13 +101,13 @@
 
 ### `⟨ SYSTEM DIAGNOSTICS ⟩`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4&border_radius=8" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo&theme=dark&hide_border=true&background=0d1117&ring=00ffe1&fire=00cccc&currStreakLabel=00ffe1&sideLabels=7fffd4&border_radius=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4&border_radius=8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=dark&hide_border=true&background=0d1117&ring=00ffe1&fire=00cccc&currStreakLabel=00ffe1&sideLabels=7fffd4&border_radius=8" />
 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&text_color=7fffd4&border_radius=8&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishsahoo&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffe1&line=00ffe1&point=7fffd4&area=true&area_color=003333" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashishsahoo18&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ffe1&line=00ffe1&point=7fffd4&area=true&area_color=003333" />
 
 </div>
 
@@ -221,15 +221,14 @@ class AshishSahoo:
 
 ### `⟨ ESTABLISH CONNECTION ⟩`
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashishsahoo-0d1117?style=for-the-badge&logo=github&logoColor=00ffe1&labelColor=0d1117)](https://github.com/ashishsahoo)
+[![GitHub](https://img.shields.io/badge/GitHub-ashishsahoo18-0d1117?style=for-the-badge&logo=github&logoColor=00ffe1&labelColor=0d1117)](https://github.com/ashishsahoo18)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-ashishsahoo.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ffe1&labelColor=0d1117)](https://ashishsahoo.github.io)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ffe1&labelColor=0d1117)](https://linkedin.com/in/ashishsahoo)
+
+[![Instagram]((https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_sahoo_18))](https://instagram.com/ashish_sahoo_18)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-0d1117?style=for-the-badge&logo=instagram&logoColor=00ffe1&labelColor=0d1117)](https://instagram.com/ashishsahoo)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=00ffe1&labelColor=0d1117)](mailto:ashishsahoo@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahooashish673@gmail.com)](mailto:sahooashish673@gmail.com)
 
 </div>
 
