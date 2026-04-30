@@ -36,7 +36,7 @@
 ║                                                                  ║
 ║  $ whoami → Ashish Sahoo                                         ║
 ║  $ cat role.txt → Full Stack Dev | Python | Backend | OSS        ║
-║  $ locate ashish → ashishsahoo.github.io                         ║
+║  $ locate ashish → ashishsahoo18.github.io                         ║
 ║  $ ping ashish → Response: 200 OK, always building.             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -68,11 +68,12 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ffe1)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ffe1)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ffe1)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ffe1)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+[C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 **Frameworks & Libraries**
 
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ffe1)
@@ -223,13 +224,8 @@ class AshishSahoo:
 
 [![GitHub](https://img.shields.io/badge/GitHub-ashishsahoo18-0d1117?style=for-the-badge&logo=github&logoColor=00ffe1&labelColor=0d1117)](https://github.com/ashishsahoo18)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashishsahoo.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=00ffe1&labelColor=0d1117)](https://ashishsahoo.github.io)
-&nbsp;
-
-[![Instagram]((https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_sahoo_18))](https://instagram.com/ashish_sahoo_18)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahooashish673@gmail.com)](mailto:sahooashish673@gmail.com)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashish_sahoo_18)
+ [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AshishSahoo969222) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahooashish673@gmail.com)
 </div>
 
 <br/>
