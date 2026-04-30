@@ -69,19 +69,19 @@
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alamimran613&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alamimran613&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alamimran613&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=alamimran613&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical">
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=alamimran613&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alamimran613&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=dark&hide_border=false)
 
 
 
@@ -141,7 +141,7 @@ class AshishSahoo:
       <h3 align="center">⬡ PROJECT ALPHA</h3>
       <p align="center">
         <a href="https://github.com/ashishsahoo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishsahoo&repo=ashishsahoo&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4" alt="Repo Card"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishsahoo18&repo=ashishsahoo18&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4" alt="Repo Card"/>
         </a>
       </p>
       <p align="center">
@@ -153,7 +153,7 @@ class AshishSahoo:
       <h3 align="center">⬡ PROJECT BETA</h3>
       <p align="center">
         <a href="https://github.com/ashishsahoo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishsahoo&repo=ashishsahoo&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4" alt="Repo Card"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishsahoo18&repo=ashishsahoo18&theme=dark&hide_border=true&bg_color=0d1117&title_color=00ffe1&icon_color=00ffe1&text_color=7fffd4" alt="Repo Card"/>
         </a>
       </p>
       <p align="center">
@@ -176,7 +176,7 @@ class AshishSahoo:
 
 ### `⟨ ACHIEVEMENTS UNLOCKED ⟩`
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashishsahoo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
 
 </div>
 
@@ -219,9 +219,9 @@ class AshishSahoo:
 ### `⟨ CONTRIBUTION GRID ⟩`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishsahoo/ashishsahoo/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishsahoo/ashishsahoo/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ashishsahoo/ashishsahoo/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishsahoo18/ashishsahoo18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishsahoo18/ashishsahoo18/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ashishsahoo18/ashishsahoo18/output/github-snake-dark.svg" />
 </picture>
 
 </div>
