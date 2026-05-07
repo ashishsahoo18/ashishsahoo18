@@ -80,8 +80,6 @@
 </div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-![](https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=dark&hide_border=false)
 
 
 
