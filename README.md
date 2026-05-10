@@ -75,7 +75,10 @@
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical">
 <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=8">
 <img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical">
+```html
+<img height="169em" src="https://streak-stats.demolab.com?user=ashishsahoo18&theme=radical">
+```
+
 
 </div>
 
