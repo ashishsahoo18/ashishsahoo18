@@ -65,78 +65,27 @@
 
 <br/>
 
-<!-- GitHub Profile README — Stats Section -->
-<!-- Username: ashishsahoo18 | Last refreshed: 2026-05-14 -->
+# 📊 GitHub Stats:
 
 <div align="center">
 
-## 📊 GitHub Stats
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical&cache_seconds=1800">
 
-<!-- Overall Stats Card -->
-<!-- count_private=true → includes private repo commits -->
-<!-- include_all_commits=true → counts ALL branches, not just default -->
-<!-- cache_seconds=1800 → refreshes every 30 min instead of default 4h -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashishsahoo18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=1800&rank_icon=github)](https://github.com/ashishsahoo18)
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical&cache_seconds=1800">
 
-<!-- Streak Stats -->
-<!-- Tracks current/longest streak and total contributions -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=tokyonight&hide_border=false&cache_seconds=1800)](https://github.com/ashishsahoo18)
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical&cache_seconds=1800">
 
-<!-- Top Languages Card -->
-<!-- langs_count=6 → show up to 6 languages -->
-<!-- layout=compact → saves vertical space -->
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=tokyonight&layout=compact&langs_count=6&hide_border=false&count_private=true&cache_seconds=1800)](https://github.com/ashishsahoo18)
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical&cache_seconds=1800">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5&cache_seconds=1800">
+
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800">
+
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical&cache_seconds=1800">
 
 </div>
 
----
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&cache_seconds=1800)](https://github.com/ashishsahoo18)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishsahoo18&theme=tokyo-night&hide_border=false&cache_seconds=1800)](https://github.com/ashishsahoo18)
-
-</div>
-
----
-<!-- 
-  ╔══════════════════════════════════════════════════════════════════╗
-  ║  TROUBLESHOOTING — Why counts may still differ                  ║
-  ╠══════════════════════════════════════════════════════════════════╣
-  ║  1. PRIVATE CONTRIBUTIONS                                       ║
-  ║     Go to GitHub → Settings → Contributions section            ║
-  ║     → Turn ON "Private contributions" so they appear publicly  ║
-  ║     Without this, count_private=true has NO effect.            ║
-  ║                                                                  ║
-  ║  2. CACHE DELAY (most common cause)                             ║
-  ║     GitHub's CDN may serve cached (old) badge images.          ║
-  ║     Force refresh: open the URL in a new browser tab, or       ║
-  ║     append &t=TIMESTAMP to bust cache:                         ║
-  ║     ...&cache_seconds=1800&t=20260514                          ║
-  ║                                                                  ║
-  ║  3. COMMITS NOT COUNTED BY STATS CARD                          ║
-  ║     The stats card only counts commits where:                  ║
-  ║     • Your email matches your GitHub account email             ║
-  ║     • The repo is not a fork (forks need include_fork=true)    ║
-  ║     • The commit is on GitHub (not just local)                  ║
-  ║                                                                  ║
-  ║  4. CONTRIBUTION GRAPH vs STATS CARD DISCREPANCY               ║
-  ║     The contribution graph counts: commits, PRs, issues,       ║
-  ║     code reviews. The stats card counts only commits + PRs.    ║
-  ║     They will NEVER be identical — this is expected.           ║
-  ╚══════════════════════════════════════════════════════════════════╝
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 <!-- Snake Game Repo View -->
 
 <div align="center">
