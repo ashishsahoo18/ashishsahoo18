@@ -7,14 +7,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:003366,100:00ffe1&height=200&section=header&text=ASHISH%20SAHOO&fontSize=60&fontColor=00ffe1&fontAlignY=38&desc=Full%20Stack%20%7C%20Python%20%7C%20Open%20Source&descAlignY=60&descSize=18&descColor=7fffd4&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-<a href="https://ashishsahoo.github.io">
+<a href="https://ashishsahoo18.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=00FFE1&center=true&vCenter=true&multiline=false&width=650&lines=%3E+Initializing+Developer+Profile...;%3E+Full+Stack+Developer+%2F%2F+Python+%2F%2F+React;%3E+Backend+Architect+%2F%2F+Open+Source+Contributor;%3E+Building+the+future%2C+one+commit+at+a+time.;%3E+Sudo+make+the+world+a+better+place+%3A%3A" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- PROFILE VIEWS + STATUS BADGES -->
-<img src="https://komarev.com/ghpvc/?username=ashishsahoo&label=PROFILE+VIEWS&color=00ffe1&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=ashishsahoo18&label=PROFILE+VIEWS&color=00ffe1&style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ffe1?style=for-the-badge&labelColor=0d1117&color=00ffe1" />
 &nbsp;
@@ -69,22 +69,23 @@
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical&cache_seconds=1800">
 
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical&cache_seconds=1800">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical&cache_seconds=1800">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical&cache_seconds=1800">
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5&cache_seconds=1800">
+
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800">
+
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical&cache_seconds=1800">
 
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
-
-
-
-</div><br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 <!-- Snake Game Repo View -->
 
 <div align="center">
