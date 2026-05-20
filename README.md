@@ -65,9 +65,9 @@
 
 <br/>
 
-![](https://github-readme-stats.shion.dev/api?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Skit-025&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=ashishsahoo18&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ashishsahoo18&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsahoo18&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 <!-- 🔥 Extra Badges Section -->
