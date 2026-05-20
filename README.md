@@ -70,14 +70,8 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsahoo18&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-<!-- 🔥 Extra Badges Section -->
-### 🏆 GitHub Achievements & Badges
-
-![Profile Views](https://komarev.com/ghpvc/?username=ashishsahoo18&color=blue&style=flat-square)
-![Followers](https://img.shields.io/github/followers/ashishsahoo18?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/ashishsahoo18?label=Stars&style=social)
-![Trophies](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=radical&margin-w=15&margin-h=15&column=7)
-
+<## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
 
 
