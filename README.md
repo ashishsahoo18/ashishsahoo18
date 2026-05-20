@@ -23,38 +23,21 @@
 </div>
 
 <br/>
+# 💫 Hi 👋, I'm Ashish Sahoo
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   ABOUT / IDENTITY                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
+### 🚀 Python Developer | Django Developer | Web Development Learner from India
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a33,100:002244&height=2&section=header" width="100%"/>
+I enjoy building web applications, learning backend development, and improving my programming skills through real projects and continuous practice.
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  > WHO AM I?                                                     ║
-║                                                                  ║
-║  $ whoami → Ashish Sahoo                                         ║
-║  $ cat role.txt → Full Stack Dev | Python | Backend | OSS        ║
-║  $ locate ashish → ashishsahoo18.github.io                         ║
-║  $ ping ashish → Response: 200 OK, always building.             ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+---
 
-<div align="center">
-
-|  |  |
-|:---|:---|
-| 🌐 **Portfolio** | [ashishsahoo18.github.io](https://ashishsahoo18.github.io) |
-| 📍 **Location** | India |
-| 💼 **Roles** | Full Stack Developer · Python Developer · Backend Developer · Open Source Contributor |
-| 🔭 **Currently** | Building scalable backend systems & contributing to OSS |
-| 🌱 **Learning** | Distributed Systems · Rust · Cloud-Native Architecture |
-| ⚡ **Fun fact** | My code is like dark coffee — strong, efficient, no sugar |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:002244,100:001a33&height=2" width="100%"/>
+* 🔭 **Currently working on:** Django Web Projects & GitHub Portfolio
+* 🌱 **Currently learning:** Django, Python, GitHub, HTML, CSS, JavaScript
+* 👯 **Looking to collaborate on:** Web Development & Open Source Projects
+* 🤔 **Looking for help with:** Advanced Django & Deployment
+* 💬 **Ask me about:** Python, Django, GitHub, Basic Web Development
+* 📫 **Reach me at:** [sahooashish673@gmail.com](mailto:sahooashish673@gmail.com)
+* ⚡ **Fun fact:** I turn bugs into features sometimes 😄
 
 <br/>
 
