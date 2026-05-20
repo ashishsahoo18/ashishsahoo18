@@ -63,35 +63,12 @@
 
 
 
-<br/># 📊 GitHub Stats:
+<br/>
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Skit-025&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skit-025&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Profile Details -->
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical&cache_seconds=300">
-
-<!-- General Stats -->
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical&cache_seconds=300">
-
-<!-- Languages by Repo -->
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical&cache_seconds=300">
-
-<!-- Languages by Commit -->
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical&cache_seconds=300">
-
-<!-- Productive Time -->
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5&cache_seconds=300">
-
-<!-- Readme Stats -->
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=300">
-
-<!-- Streak Stats -->
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishsahoo18&theme=radical&cache_seconds=300">
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=300)
-
----
 
 <!-- 🔥 Extra Badges Section -->
 ### 🏆 GitHub Achievements & Badges
