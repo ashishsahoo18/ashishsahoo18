@@ -63,29 +63,22 @@
 
 
 
-<br/>
-# 📊 GitHub Stats
+<br/># 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ashishsahoo18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashishsahoo18&limit=5&theme=cobalt&combine_all_yearly_contributions=true)
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical"/>
+---
+[![](https://komarev.com/ghpvc/?username=ashishsahoo18&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br><br>
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishsahoo18) 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://streak-stats.demolab.com?user=ashishsahoo18&theme=radical"/>
-
-<br><br>
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical"/>
-
-<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical"/>
-
-<br><br>
-
-<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5"/>
-
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 </div>
 <## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
