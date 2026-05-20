@@ -188,17 +188,7 @@ class AshishSahoo:
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                   TROPHIES                                -->
-<!-- ══════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-### `⟨ ACHIEVEMENTS UNLOCKED ⟩`
-
-<img src="https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
 
 <br/>
 
