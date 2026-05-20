@@ -64,24 +64,27 @@
 
 
 <br/>
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashishsahoo18&theme=radical"/>
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashishsahoo18&theme=radical">
+<br><br>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical">
+<img height="170em" src="https://streak-stats.demolab.com?user=ashishsahoo18&theme=radical"/>
 
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5">
+<br><br>
 
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=ashishsahoo18&theme=radical&hide_border=false&include_all_commits=true&count_private=true">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishsahoo18&theme=radical"/>
 
-<img height="169em" src="https://streak-stats.demolab.com?user=ashishsahoo18&theme=radical">
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashishsahoo18&theme=radical"/>
+
+<br><br>
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashishsahoo18&theme=radical&utcOffset=5.5"/>
 
 </div>
 <## 🏆 GitHub Trophies
