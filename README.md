@@ -79,7 +79,6 @@
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-</div>
 <## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 </div>
