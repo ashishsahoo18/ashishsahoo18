@@ -63,9 +63,7 @@
 
 
 
-<br/>
-
-# 📊 GitHub Stats:
+<br/># 📊 GitHub Stats:
 
 <div align="center">
 
@@ -93,7 +91,18 @@
 <!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=300)
 
+---
+
+<!-- 🔥 Extra Badges Section -->
+### 🏆 GitHub Achievements & Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=ashishsahoo18&color=blue&style=flat-square)
+![Followers](https://img.shields.io/github/followers/ashishsahoo18?label=Followers&style=social)
+![Stars](https://img.shields.io/github/stars/ashishsahoo18?label=Stars&style=social)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashishsahoo18&theme=radical&margin-w=15&margin-h=15&column=7)
+
 </div>
+
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
