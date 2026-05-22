@@ -23,6 +23,7 @@
 </div>
 
 <br/>
+<img width="100%" src="https://raw.githubusercontent.com/ashishsahoo18/ashishsahoo18/main/banner.png" />
 # 💫 Hi 👋, I'm Ashish Sahoo
 
 ### 🚀 Python Developer | Django Developer | Web Development Learner from India
