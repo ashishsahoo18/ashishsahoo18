@@ -49,7 +49,9 @@ I enjoy building web applications, learning backend development, and improving m
 
 <div align="center">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4t6lid4bt2qdjqmxcslho4try&cover_image=true&theme=novatorem" />
+<a href="https://open.spotify.com/user/31r4t6lid4bt2qdjqmxcslho4try">
+  <img src="https://img.shields.io/badge/Spotify-Ashish_Sahoo-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
 </div>
 
