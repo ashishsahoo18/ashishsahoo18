@@ -52,6 +52,7 @@ I enjoy building web applications, learning backend development, and improving m
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31r4t6lid4bt2qdjqmxcslho4try&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00ffe1&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ashishsahoo18&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashishsahoo18&theme=neon&hide_border=false)<br/>
