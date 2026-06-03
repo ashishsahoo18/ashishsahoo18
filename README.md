@@ -80,14 +80,6 @@ I enjoy building web applications, learning backend development, and improving m
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishsahoo18) 
 </div>
-## 🎨 &nbsp;Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishsahoo18&theme=github-compact&hide_border=true&area=true&custom_title=Contribution+Activity+Graph&point=4d9eff&line=1565c0&color=8b949e&bg_color=0d1117&area_color=1565c0)
-
-</div>
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishsahoo18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
 <!-- Snake Game Repo View -->
