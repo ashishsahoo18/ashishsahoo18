@@ -24,21 +24,19 @@
 
 <br/>
 <img width="100%" src="https://raw.githubusercontent.com/ashishsahoo18/ashishsahoo18/main/banner.png.png" />
-# 💫 Hi 👋, I'm Ashish Sahoo
+# Hi, I'm Ashish Sahoo 👋
 
-### 🚀 Python Developer | Django Developer | Web Development Learner from India
+## 🚀 Python Developer | Django Developer | Aspiring Full-Stack Developer
 
-I enjoy building web applications, learning backend development, and improving my programming skills through real projects and continuous practice.
+I am a motivated Python and Django developer from India, focused on building web applications and improving my backend development skills through real-world projects.
 
----
-
-* 🔭 **Currently working on:** Django Web Projects & GitHub Portfolio
-* 🌱 **Currently learning:** Django, Python, GitHub, HTML, CSS, JavaScript
-* 👯 **Looking to collaborate on:** Web Development & Open Source Projects
-* 🤔 **Looking for help with:** Advanced Django & Deployment
-* 💬 **Ask me about:** Python, Django, GitHub, Basic Web Development
-* 📫 **Reach me at:** [sahooashish673@gmail.com](mailto:sahooashish673@gmail.com)
-* ⚡ **Fun fact:** I turn bugs into features sometimes 😄
+- 🔭 Currently working on: Django web projects and GitHub portfolio
+- 🌱 Currently learning: Django, Python, GitHub, HTML, CSS, JavaScript, and deployment
+- 👯 Looking to collaborate on: Web development and open-source projects
+- 🤝 Looking for help with: Advanced Django, REST APIs, and deployment
+- 💬 Ask me about: Python, Django, GitHub, HTML, CSS, and basic web development
+- 📫 Reach me at: [sahooashish673@gmail.com](mailto:sahooashish673@gmail.com)
+- ⚡ Fun fact: Every bug teaches me something new
 
 <br/>
 
