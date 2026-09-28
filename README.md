@@ -62,6 +62,16 @@ I am a motivated Python and Django developer from India, focused on building web
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsahoo18&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="./github-stats.svg" alt="GitHub Statistics for Ashish Sahoo" width="800"/>
+
+</div>
+
+---
+---
 [![](https://komarev.com/ghpvc/?username=ashishsahoo18&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
