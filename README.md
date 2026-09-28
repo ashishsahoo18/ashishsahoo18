@@ -53,69 +53,7 @@ I am a motivated Python and Django developer from India, focused on building web
 
 </div>
 
----
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="560">
-    <style>
-        .title { font: bold 26px sans-serif; fill: #ff4444; }
-        .label { font: 16px sans-serif; fill: #ff4444; }
-        .value { font: bold 16px monospace; fill: #ffffff; }
-        .legend-text { font: 15px monospace; fill: #ffffff; }
-        .footer { font: 12px monospace; fill: #777777; }
-        svg { background-color: #121212; }
-    </style>
 
-    <!-- Fondo oscuro -->
-    <rect width="800" height="560" fill="#121212" />
-
-    <!-- Título -->
-    <text x="30" y="40" class="title">📊 Estadísticas GitHub - ashishsahoo18</text>
-
-    <!-- Pie chart -->
-    <g><path d="M200,180 L320.0,180.0 A120,120 0 1,1 87.27418085752683,138.85525916160816 Z" fill="#f1e05a" />
-<path d="M200,180 L87.27418085752683,138.85525916160816 A120,120 0 0,1 297.3031496998847,109.77110951693867 Z" fill="#3572A5" />
-<path d="M200,180 L297.3031496998847,109.77110951693867 A120,120 0 0,1 315.94355975380574,149.0631134143127 Z" fill="#4F5D95" />
-<path d="M200,180 L315.94355975380574,149.0631134143127 A120,120 0 0,1 319.20761794323505,166.23250842383723 Z" fill="#563d7c" />
-<path d="M200,180 L319.20761794323505,166.23250842383723 A120,120 0 0,1 319.6814081208344,171.26154760759826 Z" fill="#701516" />
-<path d="M200,180 L319.6814081208344,171.26154760759826 A120,120 0 0,1 319.92835380259675,175.85392303506313 Z" fill="#e34c26" />
-<path d="M200,180 L319.92835380259675,175.85392303506313 A120,120 0 0,1 320.0,179.99999999999986 Z" fill="#2b7489" /></g>
-
-    <!-- Leyenda -->
-    <g><circle cx="420" cy="70" r="7" fill="#f1e05a" /><text x="440" y="75" class="legend-text">JavaScript (55.57%)</text>
-<circle cx="420" cy="100" r="7" fill="#3572A5" /><text x="440" y="105" class="legend-text">PHP (34.48%)</text>
-<circle cx="420" cy="130" r="7" fill="#4F5D95" /><text x="440" y="135" class="legend-text">Python (5.8%)</text>
-<circle cx="420" cy="160" r="7" fill="#563d7c" /><text x="440" y="165" class="legend-text">HTML (2.32%)</text>
-<circle cx="420" cy="190" r="7" fill="#701516" /><text x="440" y="195" class="legend-text">Solidity (0.67%)</text>
-<circle cx="420" cy="220" r="7" fill="#e34c26" /><text x="440" y="225" class="legend-text">CoffeeScript (0.61%)</text>
-<circle cx="420" cy="250" r="7" fill="#2b7489" /><text x="440" y="255" class="legend-text">CSS (0.55%)</text>
-</g>
-
-    <!-- Datos clave -->
-    <text x="30" y="320" class="label">📅 Última actualización:</text>
-    <text x="260" y="320" class="value">24 May 2026</text>
-
-    <text x="30" y="350" class="label">📌 Repositorio destacado:</text>
-    <text x="260" y="350" class="value">guevaraStian/Proyectos_Python</text>
-
-    <text x="30" y="380" class="label">📈 Contribuciones (último año):</text>
-    <text x="260" y="380" class="value">Ver perfil (API REST no provee exacto)</text>
-
-    <text x="30" y="410" class="label">📧 Correo público:</text>
-    <text x="260" y="410" class="value">sahooashish673@gmail.com</text>
-
-    <text x="30" y="440" class="label">📁 Repositorios públicos:</text>
-    <text x="260" y="440" class="value">18</text>
-
-    <text x="30" y="470" class="label">⭐ Total estrellas:</text>
-    <text x="260" y="470" class="value">117</text>
-
-    <text x="30" y="500" class="label">👥 Ashish / Ashish:</text>
-    <text x="260" y="500" class="value">2661 / 2600</text>
-
-    <text x="30" y="530" class="label">📝 Commits en 2026:</text>
-    <text x="260" y="530" class="value">228</text>
-
-    <text x="30" y="550" class="footer">Generado automáticamente con la API de GitHub</text>
-</svg>
 
 ---
 # 📊 GitHub Stats:
