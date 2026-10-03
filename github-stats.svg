@@ -21,9 +21,9 @@
     <text x="60" y="378" font-size="15" fill="#ff3b3b">📅 Last updated:</text>
     <text x="345" y="378" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">03 Oct 2026</text>
     <text x="60" y="403" font-size="15" fill="#ff3b3b">📌 Featured repository:</text>
-    <text x="345" y="403" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">ashishsahoo18/ashishsahoo18</text>
+    <text x="345" y="403" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">ashishsahoo18/my-own-voice-assistant</text>
     <text x="60" y="428" font-size="15" fill="#ff3b3b">📈 Contributions (last 12 mo):</text>
-    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,013</text>
+    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,016</text>
     <text x="60" y="453" font-size="15" fill="#ff3b3b">📁 Public repositories:</text>
     <text x="345" y="453" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">13</text>
     <text x="60" y="478" font-size="15" fill="#ff3b3b">⭐ Total stars:</text>
@@ -31,7 +31,7 @@
     <text x="60" y="503" font-size="15" fill="#ff3b3b">👥 Followers / Following:</text>
     <text x="345" y="503" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">2 / 3</text>
     <text x="60" y="528" font-size="15" fill="#ff3b3b">📝 Commits in 2026:</text>
-    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">991</text>
+    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">994</text>
     <text x="60" y="546" font-size="10.5" fill="#777">Featured: most-starred non-fork repo. Languages: bytes across non-fork public repos. Auto-generated via GitHub API.</text>
   </g>
 </svg>
