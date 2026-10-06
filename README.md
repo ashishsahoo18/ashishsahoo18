@@ -18,8 +18,8 @@
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00ffe1?style=for-the-badge&labelColor=0d1117&color=00ffe1" />
 &nbsp;
-[<img src="https://img.shields.io/badge/FOCUS-OPEN_SOURCE-7fffd4?style=for-the-badge&labelColor=0d1117" />
-](https://chatgpt.com/backend-api/estuary/content?id=file_0000000054e482119810b2807940bfbd&ts=497583&p=fs&cid=1&sig=ae7b7cdc6029d4895206ca89b44291c8bf677c580d4b5358a0c558503529d83d&v=0)
+<img src="https://img.shields.io/badge/FOCUS-OPEN_SOURCE-7fffd4?style=for-the-badge&labelColor=0d1117" />
+
 </div>
 
 <br/>
