@@ -4,34 +4,37 @@
   <rect x="0.5" y="0.5" width="799" height="559" rx="10" fill="#121212" stroke="#3a3a3a"/>
   <g font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif">
     <text x="60" y="52" font-size="28" font-weight="700" fill="#ff3b3b">📊 GitHub Statistics - @ashishsahoo18</text>
-    <path d="M210.000 80.000 A125 125 0 0 1 214.319 329.925 L212.488 276.957 A72 72 0 0 0 210.000 133.000 Z" fill="#3572A5" stroke="#121212" stroke-width="1.5"/>
-    <path d="M214.319 329.925 A125 125 0 0 1 100.500 265.288 L146.928 239.726 A72 72 0 0 0 212.488 276.957 Z" fill="#e34c26" stroke="#121212" stroke-width="1.5"/>
-    <path d="M100.500 265.288 A125 125 0 0 1 105.095 137.030 L149.575 165.849 A72 72 0 0 0 146.928 239.726 Z" fill="#563d7c" stroke="#121212" stroke-width="1.5"/>
-    <path d="M105.095 137.030 A125 125 0 0 1 210.000 80.000 L210.000 133.000 A72 72 0 0 0 149.575 165.849 Z" fill="#f1e05a" stroke="#121212" stroke-width="1.5"/>
+    <path d="M210.000 80.000 A125 125 0 0 1 221.060 329.510 L216.370 276.718 A72 72 0 0 0 210.000 133.000 Z" fill="#3572A5" stroke="#121212" stroke-width="1.5"/>
+    <path d="M221.060 329.510 A125 125 0 0 1 102.809 269.305 L148.258 242.040 A72 72 0 0 0 216.370 276.718 Z" fill="#e34c26" stroke="#121212" stroke-width="1.5"/>
+    <path d="M102.809 269.305 A125 125 0 0 1 103.708 139.220 L148.776 167.110 A72 72 0 0 0 148.258 242.040 Z" fill="#563d7c" stroke="#121212" stroke-width="1.5"/>
+    <path d="M103.708 139.220 A125 125 0 0 1 209.293 80.002 L209.593 133.001 A72 72 0 0 0 148.776 167.110 Z" fill="#f1e05a" stroke="#121212" stroke-width="1.5"/>
+    <path d="M209.293 80.002 A125 125 0 0 1 210.000 80.000 L210.000 133.000 A72 72 0 0 0 209.593 133.001 Z" fill="#f34b7d" stroke="#121212" stroke-width="1.5"/>
     
     <circle cx="450" cy="96" r="8" fill="#3572A5"/>
-    <text x="472" y="101" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">Python (49.45%)</text>
+    <text x="472" y="101" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">Python (48.59%)</text>
     <circle cx="450" cy="128" r="8" fill="#e34c26"/>
-    <text x="472" y="133" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">HTML (17.54%)</text>
+    <text x="472" y="133" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">HTML (17.81%)</text>
     <circle cx="450" cy="160" r="8" fill="#563d7c"/>
-    <text x="472" y="165" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">CSS (17.16%)</text>
+    <text x="472" y="165" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">CSS (17.42%)</text>
     <circle cx="450" cy="192" r="8" fill="#f1e05a"/>
-    <text x="472" y="197" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">JavaScript (15.85%)</text>
+    <text x="472" y="197" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">JavaScript (16.09%)</text>
+    <circle cx="450" cy="224" r="8" fill="#f34b7d"/>
+    <text x="472" y="229" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">C++ (0.09%)</text>
     
     <text x="60" y="378" font-size="15" fill="#ff3b3b">📅 Last updated:</text>
     <text x="345" y="378" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">15 Oct 2026</text>
     <text x="60" y="403" font-size="15" fill="#ff3b3b">📌 Featured repository:</text>
-    <text x="345" y="403" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">ashishsahoo18/ashishsahoo18</text>
+    <text x="345" y="403" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">ashishsahoo18/python-problem-practice</text>
     <text x="60" y="428" font-size="15" fill="#ff3b3b">📈 Contributions (last 12 mo):</text>
-    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,054</text>
+    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,058</text>
     <text x="60" y="453" font-size="15" fill="#ff3b3b">📁 Public repositories:</text>
-    <text x="345" y="453" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">17</text>
+    <text x="345" y="453" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">16</text>
     <text x="60" y="478" font-size="15" fill="#ff3b3b">⭐ Total stars:</text>
     <text x="345" y="478" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">0</text>
     <text x="60" y="503" font-size="15" fill="#ff3b3b">👥 Followers / Following:</text>
     <text x="345" y="503" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">3 / 3</text>
     <text x="60" y="528" font-size="15" fill="#ff3b3b">📝 Commits in 2026:</text>
-    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,028</text>
+    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,026</text>
     <text x="60" y="546" font-size="10.5" fill="#777">Featured: most-starred non-fork repo. Languages: bytes across non-fork public repos. Auto-generated via GitHub API.</text>
   </g>
 </svg>
