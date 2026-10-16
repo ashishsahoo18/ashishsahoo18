@@ -4,29 +4,32 @@
   <rect x="0.5" y="0.5" width="799" height="559" rx="10" fill="#121212" stroke="#3a3a3a"/>
   <g font-family="'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif">
     <text x="60" y="52" font-size="28" font-weight="700" fill="#ff3b3b">📊 GitHub Statistics - @ashishsahoo18</text>
-    <path d="M210.000 80.000 A125 125 0 0 1 222.389 329.385 L217.136 276.645 A72 72 0 0 0 210.000 133.000 Z" fill="#3572A5" stroke="#121212" stroke-width="1.5"/>
-    <path d="M222.389 329.385 A125 125 0 0 1 103.215 269.977 L148.492 242.427 A72 72 0 0 0 217.136 276.645 Z" fill="#e34c26" stroke="#121212" stroke-width="1.5"/>
-    <path d="M103.215 269.977 A125 125 0 0 1 103.957 138.819 L148.919 166.880 A72 72 0 0 0 148.492 242.427 Z" fill="#563d7c" stroke="#121212" stroke-width="1.5"/>
-    <path d="M103.957 138.819 A125 125 0 0 1 209.293 80.002 L209.593 133.001 A72 72 0 0 0 148.919 166.880 Z" fill="#f1e05a" stroke="#121212" stroke-width="1.5"/>
-    <path d="M209.293 80.002 A125 125 0 0 1 210.000 80.000 L210.000 133.000 A72 72 0 0 0 209.593 133.001 Z" fill="#f34b7d" stroke="#121212" stroke-width="1.5"/>
+    <path d="M210.000 80.000 A125 125 0 1 1 206.466 329.950 L207.965 276.971 A72 72 0 1 0 210.000 133.000 Z" fill="#3572A5" stroke="#121212" stroke-width="1.5"/>
+    <path d="M206.466 329.950 A125 125 0 0 1 97.031 258.507 L144.930 235.820 A72 72 0 0 0 207.965 276.971 Z" fill="#e34c26" stroke="#121212" stroke-width="1.5"/>
+    <path d="M97.031 258.507 A125 125 0 0 1 107.371 133.639 L150.886 163.896 A72 72 0 0 0 144.930 235.820 Z" fill="#563d7c" stroke="#121212" stroke-width="1.5"/>
+    <path d="M107.371 133.639 A125 125 0 0 1 209.293 80.002 L209.593 133.001 A72 72 0 0 0 150.886 163.896 Z" fill="#f1e05a" stroke="#121212" stroke-width="1.5"/>
+    <path d="M209.293 80.002 A125 125 0 0 1 209.921 80.000 L209.955 133.000 A72 72 0 0 0 209.593 133.001 Z" fill="#f34b7d" stroke="#121212" stroke-width="1.5"/>
+    <path d="M209.921 80.000 A125 125 0 0 1 210.000 80.000 L210.000 133.000 A72 72 0 0 0 209.955 133.000 Z" fill="#c9a227" stroke="#121212" stroke-width="1.5"/>
     
     <circle cx="450" cy="96" r="8" fill="#3572A5"/>
-    <text x="472" y="101" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">Python (48.42%)</text>
+    <text x="472" y="101" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">Python (50.45%)</text>
     <circle cx="450" cy="128" r="8" fill="#e34c26"/>
-    <text x="472" y="133" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">HTML (17.88%)</text>
+    <text x="472" y="133" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">HTML (17.51%)</text>
     <circle cx="450" cy="160" r="8" fill="#563d7c"/>
-    <text x="472" y="165" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">CSS (17.58%)</text>
+    <text x="472" y="165" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">CSS (16.71%)</text>
     <circle cx="450" cy="192" r="8" fill="#f1e05a"/>
-    <text x="472" y="197" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">JavaScript (16.03%)</text>
+    <text x="472" y="197" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">JavaScript (15.24%)</text>
     <circle cx="450" cy="224" r="8" fill="#f34b7d"/>
-    <text x="472" y="229" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">C++ (0.09%)</text>
+    <text x="472" y="229" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">C++ (0.08%)</text>
+    <circle cx="450" cy="256" r="8" fill="#c9a227"/>
+    <text x="472" y="261" font-size="14" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#e6e6e6">Batchfile (0.01%)</text>
     
     <text x="60" y="378" font-size="15" fill="#ff3b3b">📅 Last updated:</text>
     <text x="345" y="378" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">16 Oct 2026</text>
     <text x="60" y="403" font-size="15" fill="#ff3b3b">📌 Featured repository:</text>
     <text x="345" y="403" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">ashishsahoo18/Block-Rock-E-Commerce</text>
     <text x="60" y="428" font-size="15" fill="#ff3b3b">📈 Contributions (last 12 mo):</text>
-    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,065</text>
+    <text x="345" y="428" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,072</text>
     <text x="60" y="453" font-size="15" fill="#ff3b3b">📁 Public repositories:</text>
     <text x="345" y="453" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">17</text>
     <text x="60" y="478" font-size="15" fill="#ff3b3b">⭐ Total stars:</text>
@@ -34,7 +37,7 @@
     <text x="60" y="503" font-size="15" fill="#ff3b3b">👥 Followers / Following:</text>
     <text x="345" y="503" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">3 / 3</text>
     <text x="60" y="528" font-size="15" fill="#ff3b3b">📝 Commits in 2026:</text>
-    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,032</text>
+    <text x="345" y="528" font-size="15" font-weight="700" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace" fill="#ffffff">1,039</text>
     <text x="60" y="546" font-size="10.5" fill="#777">Featured: most-starred non-fork repo. Languages: bytes across non-fork public repos. Auto-generated via GitHub API.</text>
   </g>
 </svg>
